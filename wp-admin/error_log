@@ -1,0 +1,1 @@
+[09-Jul-2018 03:40:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home2/carpoolphil/public_html/wp-includes/Text/Diff/Engine/native.php on line 181

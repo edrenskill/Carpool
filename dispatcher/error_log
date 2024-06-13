@@ -1,0 +1,12 @@
+[09-Oct-2018 14:37:33 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/carpoolphil/public_html/dispatcher/components/terminaltrans.php on line 159
+[09-Oct-2018 14:39:44 Asia/Manila] PHP Parse error:  syntax error, unexpected ':' in /home2/carpoolphil/public_html/dispatcher/components/terminaltrans.php on line 133
+[09-Oct-2018 14:44:19 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/carpoolphil/public_html/dispatcher/components/terminaltrans.php on line 159
+[10-Oct-2018 12:54:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/carpoolphil/public_html/dispatcher/components/terminaltrans.php on line 159
+[10-Oct-2018 12:55:34 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/carpoolphil/public_html/dispatcher/components/terminaltrans.php on line 159
+[10-Oct-2018 13:07:18 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/carpoolphil/public_html/dispatcher/components/terminaltrans.php on line 159
+[10-Oct-2018 17:37:45 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/carpoolphil/public_html/dispatcher/components/terminaltrans.php on line 159
+[11-Oct-2018 09:57:28 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/carpoolphil/public_html/dispatcher/components/terminaltrans.php on line 159
+[11-Oct-2018 11:00:58 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/carpoolphil/public_html/dispatcher/components/terminaltrans.php on line 159
+[11-Oct-2018 11:55:09 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/carpoolphil/public_html/dispatcher/components/terminaltrans.php on line 159
+[11-Oct-2018 11:56:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/carpoolphil/public_html/dispatcher/components/terminaltrans.php on line 159
+[11-Oct-2018 13:14:47 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/carpoolphil/public_html/dispatcher/components/terminaltrans.php on line 159

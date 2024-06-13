@@ -1,0 +1,1 @@
+[11-Sep-2018 09:24:12 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/carpoolphil/public_html/LIVE_EDIT/backend/report/suspended_report.php on line 92
